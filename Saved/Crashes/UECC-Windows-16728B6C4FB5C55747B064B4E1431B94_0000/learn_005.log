@@ -1,0 +1,1096 @@
+﻿Log file open, 07/12/22 14:53:10
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=14668)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: learn_005
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20280985"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.2-20280985+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" "H:\OneDrive\03. FERNANDO\video game creation\learn_005\learn_005.uproject"""
+LogCsvProfiler: Display: Metadata set : os="Windows 11 (21H2) [10.0.22000.739] "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|Intel(R) Core(TM) i7-10700F CPU @ 2.90GHz"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="180a7d5349829ca884f485886e0c29cb"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.536617
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +7:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-16728B6C4FB5C55747B064B4E1431B94
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading VulkanPC ini files took 0.02 seconds
+LogConfig: Display: Loading IOS ini files took 0.02 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.02 seconds
+LogConfig: Display: Loading Mac ini files took 0.02 seconds
+LogConfig: Display: Loading Android ini files took 0.02 seconds
+LogConfig: Display: Loading Unix ini files took 0.03 seconds
+LogConfig: Display: Loading Windows ini files took 0.03 seconds
+LogConfig: Display: Loading TVOS ini files took 0.03 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.03 seconds
+LogConfig: Display: Loading Linux ini files took 0.03 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+Launching UnrealBuildTool... [H:/Program Files/UE_5.0/Engine/Binaries/DotNET/UnrealBuildTool/UnrealBuildTool.exe -Mode=QueryTargets -Project="H:/OneDrive/03. FERNANDO/video game creation/learn_005/learn_005.uproject" -Output="H:/OneDrive/03. FERNANDO/video game creation/learn_005/Intermediate/TargetInfo.json"]
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20280985
+LogInit: Engine Version: 5.0.2-20280985+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 11 (21H2) [10.0.22000.739] (), CPU: Intel(R) Core(TM) i7-10700F CPU @ 2.90GHz, GPU: NVIDIA GeForce RTX 3060
+LogInit: Compiled (64-bit): May 20 2022 15:42:17
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: H:/Program Files/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2022.07.12-07.53.13:009][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2022.07.12-07.53.13:009][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2022.07.12-07.53.13:009][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2022.07.12-07.53.13:009][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2022.07.12-07.53.13:009][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2022.07.12-07.53.13:009][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2022.07.12-07.53.13:009][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2022.07.12-07.53.13:009][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2022.07.12-07.53.13:009][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2022.07.12-07.53.13:009][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2022.07.12-07.53.13:009][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2022.07.12-07.53.13:009][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2022.07.12-07.53.13:009][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2022.07.12-07.53.13:009][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2022.07.12-07.53.13:009][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2022.07.12-07.53.13:009][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2022.07.12-07.53.13:009][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2022.07.12-07.53.13:009][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2022.07.12-07.53.13:009][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2022.07.12-07.53.13:009][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2022.07.12-07.53.13:009][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2022.07.12-07.53.13:009][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2022.07.12-07.53.13:009][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2022.07.12-07.53.13:009][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2022.07.12-07.53.13:009][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2022.07.12-07.53.13:009][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2022.07.12-07.53.13:009][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.07.12-07.53.13:009][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2022.07.12-07.53.13:009][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.07.12-07.53.13:009][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2022.07.12-07.53.13:009][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2022.07.12-07.53.13:009][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2022.07.12-07.53.13:009][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2022.07.12-07.53.13:009][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2022.07.12-07.53.13:009][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2022.07.12-07.53.13:009][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2022.07.12-07.53.13:009][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2022.07.12-07.53.13:009][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2022.07.12-07.53.13:009][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2022.07.12-07.53.13:009][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2022.07.12-07.53.13:009][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2022.07.12-07.53.13:009][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.07.12-07.53.13:009][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.07.12-07.53.13:009][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2022.07.12-07.53.13:009][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2022.07.12-07.53.13:009][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2022.07.12-07.53.13:009][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2022.07.12-07.53.13:009][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2022.07.12-07.53.13:009][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2022.07.12-07.53.13:009][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2022.07.12-07.53.13:009][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2022.07.12-07.53.13:009][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2022.07.12-07.53.13:009][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2022.07.12-07.53.13:009][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2022.07.12-07.53.13:009][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2022.07.12-07.53.13:009][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2022.07.12-07.53.13:009][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2022.07.12-07.53.13:011][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2022.07.12-07.53.13:011][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2022.07.12-07.53.13:011][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2022.07.12-07.53.13:011][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2022.07.12-07.53.13:011][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2022.07.12-07.53.13:011][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2022.07.12-07.53.13:011][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2022.07.12-07.53.13:011][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2022.07.12-07.53.13:011][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2022.07.12-07.53.13:011][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2022.07.12-07.53.13:011][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2022.07.12-07.53.13:024][  0]LogD3D12RHI: Aftermath initialized
+[2022.07.12-07.53.13:024][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2022.07.12-07.53.13:121][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce RTX 3060 (Max supported Feature Level 12_1, shader model 6.6)
+[2022.07.12-07.53.13:121][  0]LogD3D12RHI: Adapter has 12142MB of dedicated video memory, 0MB of dedicated system memory, and 8161MB of shared system memory, 1 output[s]
+[2022.07.12-07.53.13:136][  0]LogD3D12RHI: Found D3D12 adapter 1: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2022.07.12-07.53.13:136][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 8161MB of shared system memory, 0 output[s]
+[2022.07.12-07.53.13:136][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2022.07.12-07.53.13:136][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.07.12-07.53.13:136][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2022.07.12-07.53.13:136][  0]LogHAL: Display: Platform has ~ 16 GB [17114869760 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.07.12-07.53.13:136][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2022.07.12-07.53.13:136][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2022.07.12-07.53.13:136][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.07.12-07.53.13:137][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2022.07.12-07.53.13:137][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [H:/OneDrive/03. FERNANDO/video game creation/learn_005/Saved/Config/WindowsEditor/Editor.ini]
+[2022.07.12-07.53.13:137][  0]LogInit: Computer: DESKTOP-HJTVB6P
+[2022.07.12-07.53.13:137][  0]LogInit: User: fernando
+[2022.07.12-07.53.13:137][  0]LogInit: CPU Page size=4096, Cores=8
+[2022.07.12-07.53.13:137][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.07.12-07.53.13:137][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2022.07.12-07.53.13:137][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2022.07.12-07.53.13:137][  0]LogMemory: Process Physical Memory: 281.54 MB used, 291.32 MB peak
+[2022.07.12-07.53.13:137][  0]LogMemory: Process Virtual Memory: 245.84 MB used, 245.84 MB peak
+[2022.07.12-07.53.13:137][  0]LogMemory: Physical Memory: 8132.66 MB used,  8189.36 MB free, 16322.01 MB total
+[2022.07.12-07.53.13:137][  0]LogMemory: Virtual Memory: 12482.71 MB used,  13567.30 MB free, 26050.01 MB total
+[2022.07.12-07.53.13:137][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2022.07.12-07.53.13:141][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.07.12-07.53.13:151][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2022.07.12-07.53.13:153][  0]LogInit: Using OS detected language (en-GB).
+[2022.07.12-07.53.13:153][  0]LogInit: Using OS detected locale (en-GB).
+[2022.07.12-07.53.13:156][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so 'en' will be used for the language.
+[2022.07.12-07.53.13:291][  0]LogInit: Setting process to per monitor DPI aware
+[2022.07.12-07.53.13:298][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2022.07.12-07.53.13:298][  0]LogWindowsTextInputMethodSystem:   - English (United Kingdom) - (Keyboard).
+[2022.07.12-07.53.13:298][  0]LogWindowsTextInputMethodSystem:   - English (Indonesia) - (Keyboard).
+[2022.07.12-07.53.13:298][  0]LogWindowsTextInputMethodSystem:   - English (United States) - (Keyboard).
+[2022.07.12-07.53.13:298][  0]LogWindowsTextInputMethodSystem:   - Chinese (Simplified, China) - Microsoft Pinyin (TSF IME).
+[2022.07.12-07.53.13:298][  0]LogWindowsTextInputMethodSystem:   - Chinese (Simplified, China) - Microsoft Wubi (TSF IME).
+[2022.07.12-07.53.13:298][  0]LogWindowsTextInputMethodSystem:   - English (United Kingdom) - Touch Input Correction (TSF IME).
+[2022.07.12-07.53.13:298][  0]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2022.07.12-07.53.13:306][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.07.12-07.53.13:307][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.07.12-07.53.13:387][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2022.07.12-07.53.13:389][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2022.07.12-07.53.13:389][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2022.07.12-07.53.13:444][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2022.07.12-07.53.13:444][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2022.07.12-07.53.13:444][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2022.07.12-07.53.13:444][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2022.07.12-07.53.13:444][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2022.07.12-07.53.13:444][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2022.07.12-07.53.13:444][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2022.07.12-07.53.13:444][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2022.07.12-07.53.13:444][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2022.07.12-07.53.13:444][  0]LogD3D12RHI: D3D12 ray tracing tier 1.0 is supported.
+[2022.07.12-07.53.13:444][  0]LogD3D12RHI: D3D12 ray tracing tier 1.1 is supported.
+[2022.07.12-07.53.13:444][  0]LogD3D12RHI: Mesh shader tier 1.0 is supported
+[2022.07.12-07.53.13:444][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2022.07.12-07.53.13:444][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2022.07.12-07.53.13:444][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2022.07.12-07.53.13:444][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2022.07.12-07.53.13:501][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2022.07.12-07.53.13:508][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2022.07.12-07.53.13:526][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2022.07.12-07.53.13:543][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2022.07.12-07.53.13:543][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2022.07.12-07.53.13:571][  0]LogD3D12RHI:     GPU DeviceId: 0x2504 (for the marketing name, search the web for "GPU Device Id")
+[2022.07.12-07.53.13:571][  0]LogWindows: Attached monitors:
+[2022.07.12-07.53.13:571][  0]LogWindows:     resolution: 1920x1080, work area: (0, 0) -> (1920, 1032), device: '\\.\DISPLAY1' [PRIMARY]
+[2022.07.12-07.53.13:571][  0]LogWindows: Found 1 attached monitors.
+[2022.07.12-07.53.13:571][  0]LogWindows: EnumDisplayDevices:
+[2022.07.12-07.53.13:571][  0]LogWindows:    0. 'NVIDIA GeForce RTX 3060' (P:1 D:1), name: '\\.\DISPLAY1'
+[2022.07.12-07.53.13:571][  0]LogWindows:    1. 'NVIDIA GeForce RTX 3060' (P:0 D:0), name: '\\.\DISPLAY2'
+[2022.07.12-07.53.13:571][  0]LogWindows:    2. 'NVIDIA GeForce RTX 3060' (P:0 D:0), name: '\\.\DISPLAY3'
+[2022.07.12-07.53.13:571][  0]LogWindows:    3. 'NVIDIA GeForce RTX 3060' (P:0 D:0), name: '\\.\DISPLAY4'
+[2022.07.12-07.53.13:571][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2022.07.12-07.53.13:571][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce RTX 3060
+[2022.07.12-07.53.13:571][  0]LogD3D12RHI:   Driver Version: 512.96 (internal:30.0.15.1296, unified:512.96)
+[2022.07.12-07.53.13:571][  0]LogD3D12RHI:      Driver Date: 5-19-2022
+[2022.07.12-07.53.13:571][  0]LogRHI: Texture pool is 7165 MB (70% of 10236 MB)
+[2022.07.12-07.53.13:571][  0]LogD3D12RHI: Async texture creation enabled
+[2022.07.12-07.53.13:571][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2022.07.12-07.53.13:579][  0]LogRHI: GeForceNow SDK initialized: 0
+[2022.07.12-07.53.13:584][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="H:/OneDrive/03. FERNANDO/video game creation/learn_005/learn_005.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="H:/OneDrive/03. FERNANDO/video game creation/learn_005/Intermediate/TurnkeyReport_0.log" -log="H:/OneDrive/03. FERNANDO/video game creation/learn_005/Intermediate/TurnkeyLog_0.log" -project="H:/OneDrive/03. FERNANDO/video game creation/learn_005/learn_005.uproject"  -platform=all'
+[2022.07.12-07.53.13:584][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""H:/Program Files/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="H:/OneDrive/03. FERNANDO/video game creation/learn_005/learn_005.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="H:/OneDrive/03. FERNANDO/video game creation/learn_005/Intermediate/TurnkeyReport_0.log" -log="H:/OneDrive/03. FERNANDO/video game creation/learn_005/Intermediate/TurnkeyLog_0.log" -project="H:/OneDrive/03. FERNANDO/video game creation/learn_005/learn_005.uproject"  -platform=all" ]
+[2022.07.12-07.53.13:601][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2022.07.12-07.53.13:607][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2022.07.12-07.53.13:607][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2022.07.12-07.53.13:611][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.07.12-07.53.13:611][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.07.12-07.53.13:611][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.07.12-07.53.13:611][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.07.12-07.53.13:611][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.07.12-07.53.13:611][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.07.12-07.53.13:611][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.07.12-07.53.13:611][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.07.12-07.53.13:611][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.07.12-07.53.13:611][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.07.12-07.53.13:626][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2022.07.12-07.53.13:626][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2022.07.12-07.53.13:629][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.07.12-07.53.13:629][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.07.12-07.53.13:631][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.07.12-07.53.13:631][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2022.07.12-07.53.13:631][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.07.12-07.53.13:631][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.07.12-07.53.13:633][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2022.07.12-07.53.13:633][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2022.07.12-07.53.13:633][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2022.07.12-07.53.13:635][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.07.12-07.53.13:635][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.07.12-07.53.13:639][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.07.12-07.53.13:639][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2022.07.12-07.53.13:639][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.07.12-07.53.13:639][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.07.12-07.53.13:639][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2022.07.12-07.53.13:644][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.07.12-07.53.13:646][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2022.07.12-07.53.13:646][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2022.07.12-07.53.13:646][  0]LogTargetPlatformManager:   ADPCM
+[2022.07.12-07.53.13:646][  0]LogTargetPlatformManager:   PCM
+[2022.07.12-07.53.13:648][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2022.07.12-07.53.13:648][  0]LogTargetPlatformManager:   BINKA
+[2022.07.12-07.53.13:648][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2022.07.12-07.53.13:648][  0]LogTargetPlatformManager:   OGG
+[2022.07.12-07.53.13:648][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2022.07.12-07.53.13:648][  0]LogTargetPlatformManager:   OPUS
+[2022.07.12-07.53.13:681][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2022.07.12-07.53.13:685][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2022.07.12-07.53.13:685][  0]LogTargetPlatformManager:   SF_METAL
+[2022.07.12-07.53.13:685][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2022.07.12-07.53.13:685][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2022.07.12-07.53.13:685][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2022.07.12-07.53.13:685][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2022.07.12-07.53.13:685][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2022.07.12-07.53.13:685][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2022.07.12-07.53.13:685][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2022.07.12-07.53.13:685][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2022.07.12-07.53.13:685][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2022.07.12-07.53.13:685][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2022.07.12-07.53.13:685][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2022.07.12-07.53.13:685][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2022.07.12-07.53.13:685][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2022.07.12-07.53.13:685][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2022.07.12-07.53.13:687][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2022.07.12-07.53.13:687][  0]LogTargetPlatformManager:   VVM_1_0
+[2022.07.12-07.53.13:687][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2022.07.12-07.53.13:687][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2022.07.12-07.53.13:687][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2022.07.12-07.53.13:687][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2022.07.12-07.53.13:687][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2022.07.12-07.53.13:687][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.07.12-07.53.13:687][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../OneDrive/03. FERNANDO/video game creation/learn_005/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.07.12-07.53.13:687][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.07.12-07.53.13:688][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../OneDrive/03. FERNANDO/video game creation/learn_005/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.07.12-07.53.13:688][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.07.12-07.53.13:690][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../OneDrive/03. FERNANDO/video game creation/learn_005/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.07.12-07.53.13:690][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2022.07.12-07.53.13:690][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../OneDrive/03. FERNANDO/video game creation/learn_005/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.07.12-07.53.13:690][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2022.07.12-07.53.13:704][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1096 MiB)
+[2022.07.12-07.53.13:705][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.07.12-07.53.13:705][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2022.07.12-07.53.13:712][  0]LogDerivedDataCache: Speed tests for C:/Users/fernando/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.07.12-07.53.13:712][  0]LogDerivedDataCache: Display: Performance to C:/Users/fernando/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=325.00MBs, RandomWriteSpeed=211.30MBs. Assigned SpeedClass 'Local'
+[2022.07.12-07.53.13:713][  0]LogDerivedDataCache: Using Local data cache path C:/Users/fernando/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.07.12-07.53.13:713][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.07.12-07.53.13:713][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2022.07.12-07.53.13:717][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2022.07.12-07.53.13:717][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2022.07.12-07.53.13:718][  0]LogShaderCompilers: Guid format shader working directory is -18 characters bigger than the processId version (../../../../../OneDrive/03. FERNANDO/video game creation/learn_005/Intermediate/Shaders/WorkingDirectory/19044/).
+[2022.07.12-07.53.13:718][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/fernando/AppData/Local/Temp/UnrealShaderWorkingDir/3490443B41092ACF6D3462B2A6ACFB17/'.
+[2022.07.12-07.53.13:718][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.07.12-07.53.13:718][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 8 workers.
+[2022.07.12-07.53.14:891][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2022.07.12-07.53.14:891][  0]LogSlate: Using FreeType 2.10.0
+[2022.07.12-07.53.14:891][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.07.12-07.53.14:919][  0]LogAssetRegistry: FAssetRegistry took 0.0105 seconds to start up
+[2022.07.12-07.53.14:922][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2022.07.12-07.53.15:074][  0]LogSerialization: UsePackageTrailer: 'false'
+[2022.07.12-07.53.15:075][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2022.07.12-07.53.15:285][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.07.12-07.53.15:285][  0]LogDeviceProfileManager: Active device profile: [00000BD1EDD15080][00000BD1DFF70000 50] WindowsEditor
+[2022.07.12-07.53.15:285][  0]LogDeviceProfileManager: Profiles: [00000BD1EDD14B40][00000BD1DFF75000 50] Windows, [00000BD1EDD15080][00000BD1DFF70000 50] WindowsEditor, [00000BD1EDD139C0][00000BD1DFF07800 50] WindowsServer, [00000BD1EDD14440][00000BD1DFEAC800 50] WindowsClient, [00000BD1EDD11500][00000BD1DFF72800 50] IOS, [00000BD1EDD14280][00000BD1D29FA000 50] iPadAir2, [00000BD1EDD10700][00000BD1EDD22800 50] IPadPro, [00000BD1EDD11880][00000BD1EDD20000 50] iPadAir3, [00000BD1EDD12A00][00000BD1EDD27800 50] iPadAir4, [00000BD1EDD11DC0][00000BD1EDD2A000 50] iPadMini4, [00000BD1EDD15400][00000BD1EDD2C800 50] iPadMini5, [00000BD1EDD140C0][00000BD1E684C800 50] iPadMini6, [00000BD1EDD17E00][00000BD1EDD45000 50] iPhone6S, [00000BD1EDD18180][00000BD1EDD42800 50] iPhone7, [00000BD1EDD18500][00000BD1EDD40000 50] iPodTouch7, [00000BD1EDD132C0][00000BD1EDD4A000 50] iPhone6SPlus, [00000BD1EDD17C40][00000BD1EDD4C800 50] iPhone7Plus, [00000BD1EDD10FC0][00000BD1EDD25000 50] iPhoneSE, [00000BD1EDD12840][00000BD1EDD90000 50] iPhone8, [00000BD1EDD17A80][00000BD1EDD95000 50] iPhone8Plus, [00000BD1EDD11340][00000BD1EDD97800 50] iPhoneX, [00000BD1EDD14980][00000BD1EDD9A000 50] iPhoneXS, [00000BD1EDD178C0][00000BD1EDD9C800 50] iPhoneXSMax, [00000BD1EDD10C40][00000BD1EDD47800 50] iPhoneXR, [00000BD1EDD17700][00000BD1EDD60000 50] iPhone11, [00000BD1EDD18C00][00000BD1EDD65000 50] iPhone11Pro, [00000BD1EDD17540][00000BD1EDD67800 50] iPhone11ProMax, [00000BD1EDD18A40][00000BD1EDD6A000 50] iPhoneSE2, [00000BD1EDD124C0][00000BD1EDD6C800 50] iPhone12Mini, [00000BD1EDD155C0][00000BD1EDD92800 50] iPhone12, [00000BD1EDD16C80][00000BD1EDD70000 50] iPhone12Pro, [00000BD1EDD108C0][00000BD1EDD75000 50] iPhone12ProMax, [00000BD1EDD16580][00000BD1EDD77800 50] iPhone13Mini, [00000BD1EDD13F00][00000BD1EDD7A000 50] iPhone13, [00000BD1EDD11C00][00000BD1EDD7C800 50] iPhone13Pro, [00000BD1EDD10A80][00000BD1EDD62800 50] iPhone13ProMax, [00000BD1EDD17FC0][00000BD1EDDB0000 50] iPadPro105, [00000BD1EDD11A40][00000BD1EDDB5000 50] iPadPro129, [00000BD1EDD163C0][00000BD1EDDB7800 50] iPadPro97, [00000BD1EDD12BC0][00000BD1EDDBA000 50] iPadPro2_129, [00000BD1EDD116C0][00000BD1EDDBC800 50] iPad5, [00000BD1EDD17380][00000BD1EDD72800 50] iPad6, [00000BD1EDD15940][00000BD1EDDC0000 50] iPad7, [00000BD1EDD16AC0][00000BD1EDDC5000 50] iPad8, [00000BD1EDD10E00][00000BD1EDDC7800 50] iPad9, [00000BD1EDD13640][00000BD1EDDCA000 50] iPadPro11, [00000BD1EDD13B80][00000BD1EDDCC800 50] iPadPro2_11, [00000BD1EDD15CC0][00000BD1EDDB2800 50] iPadPro3_11, [00000BD1EDD11F80][00000BD1EDDD0000 50] iPadPro3_129, [00000BD1EDD186C0][00000BD1EDDD5000 50] iPadPro4_129, [00000BD1EDD14EC0][00000BD1EDDD7800 50] iPadPro5_129, [00000BD1EDD12D80][00000BD1EDDDA000 50] AppleTV, [00000BD1EDD16E40][00000BD1EDDDC800 50] AppleTV4K, [00000BD1EDD101C0][00000BD1EDDC2800 50] TVOS, [00000BD1EDD1A640][00000BD1EDDE2800 50] Mac, [00000BD1EDD1A9C0][00000BD1EDDE0000 50] MacEditor, [00000BD1EDD18DC0][00000BD1EDDE7800 50] MacClient, [00000BD1EDD18880][00000BD1EDDEA000 50] MacServer, [00000BD1EDD1AD40][00000BD1EDDD2800 50] Linux, [00000BD1EDD1B0C0][00000BD1EDDEC800 50] LinuxEditor, [00000BD1EDD16040][00000BD1EDDF0000 50] LinuxArm64Editor, [00000BD1EDD12F40][00000BD1EDDF5000 50] LinuxArm64, [00000BD1EDD19680][00000BD1EDDF7800 50] LinuxClient, [00000BD1EDD18F80][00000BD1EDDFA000 50] LinuxArm64Client, [00000BD1EDD194C0][00000BD1EDDFC800 50] LinuxServer, [00000BD1EDD19140][00000BD1EDDE5000 50] LinuxArm64Server, [00000BD1EDD1B280][00000BD1EDE00000 50] Android, [00000BD1EDD147C0][00000BD1EDE05000 50] Android_Preview_OpenGL, [00000BD1EDD14600][00000BD1EDE07800 50] Android_Preview_Vulkan, [00000BD1EDD13800][00000BD1EDE0A000 50] Android_Low, [00000BD1EDD10000][00000BD1EDE0C800 50] Android_Mid, [00000BD1EDD1A2C0][00000BD1EDDF2800 50] Android_High, [00000BD1EDD10540][00000BD1EDE10000 50] Android_Default, [00000BD1EDD19D80][00000BD1EDE15000 50] Android_Adreno4xx, [00000BD1EDD1A480][00000BD1EDE17800 50] Android_Adreno5xx_Low, [00000BD1EDD15240][00000BD1EDE1A000 50] Android_Adreno5xx, [00000BD1EDD1BB40][00000BD1EDE1C800 50] Android_Adreno6xx, [00000BD1EDD17000][00000BD1EDE02800 50] Android_Adreno6xx_Vulkan, [00000BD1EDD18340][00000BD1EDE20000 50] Android_Adreno7xx, [00000BD1EDD1A800][00000BD1EDE25000 50] Android_Adreno7xx_Vulkan, [00000BD1EDD15B00][00000BD1EDE27800 50] Android_Mali_T6xx, [00000BD1EDD1B980][00000BD1EDE2A000 50] Android_Mali_T7xx, [00000BD1EDD13100][00000BD1EDE2C800 50] Android_Mali_T8xx, [00000BD1EDD16740][00000BD1EDE12800 50] Android_Mali_G71, [00000BD1EDD10380][00000BD1EDE30000 50] Android_Mali_G72, [00000BD1EDD12300][00000BD1EDE35000 50] Android_Mali_G72_Vulkan, [00000BD1EDD19300][00000BD1EDE37800 50] Android_Mali_G76, [00000BD1EDD11180][00000BD1EDE3A000 50] Android_Mali_G76_Vulkan, [00000BD1EDD15E80][00000BD1EDE3C800 50] Android_Mali_G77, [00000BD1EDD1BD00][00000BD1EDE22800 50] Android_Mali_G77_Vulkan, [00000BD1EDD13480][00000BD1EDE40000 50] Android_Mali_G78, [00000BD1EDD1B600][00000BD1EDE45000 50] Android_Mali_G78_Vulkan, [00000BD1EDD1BEC0][00000BD1EDE47800 50] Android_Mali_G710, [00000BD1EDD15780][00000BD1EDE4A000 50] Android_Mali_G710_Vulkan, [00000BD1EDD19A00][00000BD1EDE4C800 50] Android_Xclipse_920, [00000BD1EDD1C080][00000BD1EDE32800 50] Android_Xclipse_920_Vulkan, [00000BD1EDD1B440][00000BD1EDE50000 50] Android_Vulkan_SM5, [00000BD1EDD1C240][00000BD1EDE55000 50] Android_PowerVR_G6xxx, [00000BD1EDD13D40][00000BD1EDE57800 50] Android_PowerVR_GT7xxx, [00000BD1EDD19F40][00000BD1EDE5A000 50] Android_PowerVR_GE8xxx, [00000BD1EDD1CE80][00000BD1EDE5C800 50] Android_PowerVR_GM9xxx, [00000BD1EDD1C5C0][00000BD1EDE42800 50] Android_PowerVR_GM9xxx_Vulkan, [00000BD1EDD19BC0][00000BD1EDE60000 50] Android_TegraK1, [00000BD1EDD1D040][00000BD1EDE65000 50] Android_Unknown_Vulkan, [00000BD1EDD171C0][00000BD1EDE67800 50] Oculus_Quest, [00000BD1EDD1D200][00000BD1EDE6A000 50] Oculus_Quest2, [00000BD1EDD1DC80][00000BD1EDE6C800 50] HoloLens, 
+[2022.07.12-07.53.15:285][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2022.07.12-07.53.15:287][  0]LogTurnkeySupport: Turnkey Platform: Android: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=r21a, MaxAllowed=r23a, Flags="Platform_InvalidHostPrerequisites", Error="Android Studio is not installed correctly.|Android SDK directory is not set correctly.")
+[2022.07.12-07.53.15:287][  0]LogTurnkeySupport: Turnkey Platform: IOS: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=1100.0.0.0, MaxAllowed=1399.0, Flags="Platform_ValidHostPrerequisites")
+[2022.07.12-07.53.15:287][  0]LogTurnkeySupport: Turnkey Platform: Linux: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v10_clang-5.0.0-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2022.07.12-07.53.15:287][  0]LogTurnkeySupport: Turnkey Platform: LinuxArm64: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v10_clang-5.0.0-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2022.07.12-07.53.15:287][  0]LogTurnkeySupport: Turnkey Platform: Win64: (Status=Valid, Installed=10.0.19041.0, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="InstalledSdk_ValidVersionExists")
+[2022.07.12-07.53.15:302][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2022.07.12-07.53.15:458][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.07.12-07.53.15:458][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.07.12-07.53.15:458][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.07.12-07.53.15:458][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.07.12-07.53.15:458][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.07.12-07.53.15:468][  0]LogNetVersion: learn_005 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 2235938097)
+[2022.07.12-07.53.15:566][  0]LogSlate: Border
+[2022.07.12-07.53.15:566][  0]LogSlate: BreadcrumbButton
+[2022.07.12-07.53.15:567][  0]LogSlate: Default
+[2022.07.12-07.53.15:567][  0]LogSlate: Icons.Save
+[2022.07.12-07.53.15:567][  0]LogSlate: Icons.Toolbar.Settings
+[2022.07.12-07.53.15:567][  0]LogSlate: ListView
+[2022.07.12-07.53.15:567][  0]LogSlate: SoftwareCursor_CardinalCross
+[2022.07.12-07.53.15:567][  0]LogSlate: SoftwareCursor_Grab
+[2022.07.12-07.53.15:567][  0]LogSlate: TableView.DarkRow
+[2022.07.12-07.53.15:567][  0]LogSlate: TableView.Row
+[2022.07.12-07.53.15:567][  0]LogSlate: TreeView
+[2022.07.12-07.53.15:696][  0]SourceControl: Source control is disabled
+[2022.07.12-07.53.15:717][  0]SourceControl: Source control is disabled
+[2022.07.12-07.53.15:717][  0]SourceControl: Source control is disabled
+[2022.07.12-07.53.15:820][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2022.07.12-07.53.15:820][  0]LogUObjectAllocator: 5584256 out of 0 bytes used by permanent object pool.
+[2022.07.12-07.53.15:820][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.07.12-07.53.16:072][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: A4CA3F584A84AC39132079BF95BD2E80 | Instance: 4B3BADA043E398D4671306830D6097F6 (DESKTOP-HJTVB6P-19044).
+[2022.07.12-07.53.16:105][  0]LogPython: Using Python 3.9.7
+[2022.07.12-07.53.16:763][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.07.12-07.53.16:767][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.07.12-07.53.17:061][  0]LogOpenImageDenoise: OIDN starting up
+[2022.07.12-07.53.17:090][  0]SourceControl: Source control is disabled
+[2022.07.12-07.53.17:092][  0]SourceControl: Source control is disabled
+[2022.07.12-07.53.17:097][  0]SourceControl: Source control is disabled
+[2022.07.12-07.53.17:137][  0]LogUProjectInfo: Found projects:
+[2022.07.12-07.53.17:161][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.07.12-07.53.17:179][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.07.12-07.53.17:179][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.07.12-07.53.17:252][  0]LogCollectionManager: Loaded 0 collections in 0.000534 seconds
+[2022.07.12-07.53.17:320][  0]LogFileCache: Scanning file cache for directory 'H:/OneDrive/03. FERNANDO/video game creation/learn_005/Saved/Collections/' took 0.00s
+[2022.07.12-07.53.17:320][  0]LogFileCache: Scanning file cache for directory 'H:/OneDrive/03. FERNANDO/video game creation/learn_005/Content/Developers/fernando/Collections/' took 0.00s
+[2022.07.12-07.53.17:320][  0]LogFileCache: Scanning file cache for directory 'H:/OneDrive/03. FERNANDO/video game creation/learn_005/Content/Collections/' took 0.00s
+[2022.07.12-07.53.17:611][  0]LogEngine: Initializing Engine...
+[2022.07.12-07.53.17:644][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2022.07.12-07.53.17:645][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.07.12-07.53.17:858][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.07.12-07.53.17:858][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.07.12-07.53.17:867][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.12-07.53.17:893][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.07.12-07.53.17:894][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.07.12-07.53.17:915][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.07.12-07.53.17:916][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.07.12-07.53.17:916][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2022.07.12-07.53.17:916][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.07.12-07.53.17:916][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.07.12-07.53.17:916][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.12-07.53.17:916][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.12-07.53.17:916][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.12-07.53.17:916][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.12-07.53.17:916][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.12-07.53.17:916][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.07.12-07.53.17:916][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.12-07.53.17:916][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.12-07.53.17:917][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.12-07.53.17:917][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.12-07.53.17:917][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.12-07.53.17:921][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.07.12-07.53.17:936][  0]LogAudioMixer: Display: Using Audio Hardware Device Headphones (High Definition Audio Device)
+[2022.07.12-07.53.17:936][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.12-07.53.17:937][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.12-07.53.17:938][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.12-07.53.17:938][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2022.07.12-07.53.17:938][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.07.12-07.53.17:939][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.07.12-07.53.17:939][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2022.07.12-07.53.17:939][  0]LogInit: FAudioDevice initialized.
+[2022.07.12-07.53.17:939][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.07.12-07.53.17:939][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.07.12-07.53.17:939][  0]LogInit: Texture streaming: Enabled
+[2022.07.12-07.53.17:969][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.2-20280985+++UE5+Release-5.0
+[2022.07.12-07.53.17:976][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.07.12-07.53.18:002][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2022.07.12-07.53.18:008][  0]LogLiveCoding: Display: Starting LiveCoding
+[2022.07.12-07.53.18:008][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2022.07.12-07.53.18:594][  0]LogLiveCoding: Display: First instance in process group "UE_learn_005_0xc2da6ab1", spawning console
+[2022.07.12-07.53.18:594][  0]LogLiveCoding: Display: Waiting for server
+[2022.07.12-07.53.18:594][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2022.07.12-07.53.18:614][  0]LogInit: Transaction tracking system initialized
+[2022.07.12-07.53.18:682][  0]BlueprintLog: New page: Editor Load
+[2022.07.12-07.53.18:851][  0]LocalizationService: Localization service is disabled
+[2022.07.12-07.53.18:894][  0]TimingProfiler: Initialize
+[2022.07.12-07.53.18:894][  0]TimingProfiler: OnSessionChanged
+[2022.07.12-07.53.18:894][  0]LoadingProfiler: Initialize
+[2022.07.12-07.53.18:894][  0]LoadingProfiler: OnSessionChanged
+[2022.07.12-07.53.18:894][  0]NetworkingProfiler: Initialize
+[2022.07.12-07.53.18:894][  0]NetworkingProfiler: OnSessionChanged
+[2022.07.12-07.53.18:894][  0]MemoryProfiler: Initialize
+[2022.07.12-07.53.18:894][  0]MemoryProfiler: OnSessionChanged
+[2022.07.12-07.53.19:201][  0]LogFileCache: Scanning file cache for directory 'H:/OneDrive/03. FERNANDO/video game creation/learn_005/Content/' took 0.01s
+[2022.07.12-07.53.19:201][  0]LogLinker: Warning: Failed to load '/Engine/BasicShapes/Sphere': Can't find file.
+[2022.07.12-07.53.19:201][  0]LogLinker: Warning: Failed to load '/Engine/BasicShapes/Sphere': Can't find file.
+[2022.07.12-07.53.19:201][  0]LogUObjectGlobals: Warning: Failed to find object 'StaticMesh /Engine/BasicShapes/Sphere.Sphere'
+[2022.07.12-07.53.19:444][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2022.07.12-07.53.19:521][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.07.12-07.53.19:523][  0]SourceControl: Source control is disabled
+[2022.07.12-07.53.19:523][  0]LogUnrealEdMisc: Loading editor; pre map load, took 9.699
+[2022.07.12-07.53.19:523][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/OpenWorld.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.07.12-07.53.19:523][  0]LightingResults: New page: Lighting Build
+[2022.07.12-07.53.19:529][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.07.12-07.53.19:529][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.12-07.53.19:529][  0]MapCheck: New page: Map Check
+[2022.07.12-07.53.19:529][  0]LightingResults: New page: Lighting Build
+[2022.07.12-07.53.19:534][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.12-07.53.19:537][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2022.07.12-07.53.19:591][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_1'.
+[2022.07.12-07.53.19:596][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.12-07.53.19:597][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2022.07.12-07.53.19:597][  0]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.07.12-07.53.19:597][  0]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2022.07.12-07.53.19:800][  0]LogWorldPartition: Display: WorldPartition initialize took 202 ms
+[2022.07.12-07.53.19:972][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.07.12-07.53.19:978][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2022.07.12-07.53.19:978][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.07.12-07.53.19:988][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 9.143ms to complete.
+[2022.07.12-07.53.19:988][  0]LogFileHelpers: Loading map 'OpenWorld' took 0.465
+[2022.07.12-07.53.19:997][  0]LogUnrealEdMisc: Total Editor Startup Time, took 10.173
+[2022.07.12-07.53.19:997][  0]LogShaderCompilers: Display: ================================================
+[2022.07.12-07.53.19:997][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.07.12-07.53.19:997][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.07.12-07.53.19:997][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.07.12-07.53.19:997][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.07.12-07.53.19:997][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.07.12-07.53.19:997][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2022.07.12-07.53.19:997][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2022.07.12-07.53.19:997][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.07.12-07.53.19:997][  0]LogShaderCompilers: Display: ================================================
+[2022.07.12-07.53.20:145][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.12-07.53.20:151][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.12-07.53.20:155][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.12-07.53.20:160][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.12-07.53.20:174][  0]LogPakFile: Display: Mounted Pak file 'H:/Program Files/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2022.07.12-07.53.20:174][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.07.12-07.53.20:175][  0]LogPakFile: Display: Mounted Pak file 'H:/Program Files/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2022.07.12-07.53.20:175][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.07.12-07.53.20:175][  0]LogPakFile: Display: Mounted Pak file 'H:/Program Files/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2022.07.12-07.53.20:175][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.07.12-07.53.20:176][  0]LogPakFile: Display: Mounted Pak file 'H:/Program Files/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2022.07.12-07.53.20:176][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.07.12-07.53.20:176][  0]LogPakFile: Display: Mounted Pak file 'H:/Program Files/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2022.07.12-07.53.20:176][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.07.12-07.53.20:176][  0]LogPakFile: Display: Mounted Pak file 'H:/Program Files/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2022.07.12-07.53.20:176][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.07.12-07.53.20:177][  0]LogPakFile: Display: Mounted Pak file 'H:/Program Files/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2022.07.12-07.53.20:177][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.07.12-07.53.20:177][  0]LogPakFile: Display: Mounted Pak file 'H:/Program Files/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2022.07.12-07.53.20:177][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.07.12-07.53.20:177][  0]LogPakFile: Display: Mounted Pak file 'H:/Program Files/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2022.07.12-07.53.20:177][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.07.12-07.53.20:178][  0]LogPakFile: Display: Mounted Pak file 'H:/Program Files/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2022.07.12-07.53.20:178][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.07.12-07.53.20:304][  0]LogSlate: Took 0.000126 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.07.12-07.53.20:305][  0]LogSlate: Took 0.000103 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.07.12-07.53.20:307][  0]LogSlate: Took 0.000094 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.07.12-07.53.20:308][  0]LogSlate: Took 0.000069 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.07.12-07.53.20:335][  0]LogViewport: Scene viewport resized to 1279x531, mode Windowed.
+[2022.07.12-07.53.20:362][  0]LogSlate: Took 0.000110 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.07.12-07.53.20:998][  0]LogStall: Startup...
+[2022.07.12-07.53.20:999][  0]LogStall: Startup complete.
+[2022.07.12-07.53.21:533][  0]LogLoad: (Engine Initialization) Total time: 11.71 seconds
+[2022.07.12-07.53.21:534][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.07.12-07.53.21:597][  0]LogLinker: Warning: Failed to load '/Engine/BasicShapes/Sphere': Can't find file.
+[2022.07.12-07.53.21:597][  0]LogLinker: Warning: Failed to load '/Engine/BasicShapes/Sphere': Can't find file.
+[2022.07.12-07.53.21:597][  0]LogUObjectGlobals: Warning: Failed to find object 'StaticMesh /Engine/BasicShapes/Sphere.Sphere'
+[2022.07.12-07.53.21:601][  0]LogAssetRegistry: Asset discovery search completed in 6.6844 seconds
+[2022.07.12-07.53.21:604][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2022.07.12-07.53.21:605][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.07.12-07.55.15:376][514]LogDerivedDataCache: C:/Users/fernando/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.660 and deleted 0 file(s) with total size 0 MiB.
+[2022.07.12-08.08.28:559][222]LogMetaData: Removing '/Game/Character/SK_Mannequin.SK_Mannequin' ref from Metadata '/Game/ODSMannequin/Mannequin/Character/Mesh/SK_Mannequin.PackageMetaData'
+[2022.07.12-08.08.28:607][222]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/SK_Mannequin" FILE="../../../../../OneDrive/03. FERNANDO/video game creation/learn_005/Content/Character/SK_Mannequin.uasset" SILENT=true
+[2022.07.12-08.08.28:611][222]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.003034 seconds
+[2022.07.12-08.08.28:858][222]LogSavePackage: Moving output files for package: /Game/Character/SK_Mannequin
+[2022.07.12-08.08.28:858][222]LogSavePackage: Moving '../../../../../OneDrive/03. FERNANDO/video game creation/learn_005/Saved/SK_MannequinA6C1DE004D9B507F4A30B7B3AC1D9D88.tmp' to '../../../../../OneDrive/03. FERNANDO/video game creation/learn_005/Content/Character/SK_Mannequin.uasset'
+[2022.07.12-08.08.28:859][222]LogSavePackage: Moving output files for package: /Game/ODSMannequin/Mannequin/Character/Mesh/SK_Mannequin
+[2022.07.12-08.08.28:860][222]LogSavePackage: Moving '../../../../../OneDrive/03. FERNANDO/video game creation/learn_005/Saved/SK_Mannequin5924CAFF4D16FB05D7975E83B097C3B4.tmp' to '../../../../../OneDrive/03. FERNANDO/video game creation/learn_005/Content/ODSMannequin/Mannequin/Character/Mesh/SK_Mannequin.uasset'
+[2022.07.12-08.08.28:874][222]AssetCheck: New page: Asset Save: multiple assets
+[2022.07.12-08.08.28:874][222]LogContentValidation: Display: Validating SkeletalMesh /Game/Character/SK_Mannequin.SK_Mannequin
+[2022.07.12-08.08.28:874][222]LogContentValidation: Display: Validating ObjectRedirector /Game/ODSMannequin/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2022.07.12-08.08.34:724][817]LogMetaData: Removing '/Game/Character/Mesh/SK_Mannequin.SK_Mannequin' ref from Metadata '/Game/Character/SK_Mannequin.PackageMetaData'
+[2022.07.12-08.08.34:753][817]LogSavePackage: Moving output files for package: /Game/ODSMannequin/Mannequin/Character/Mesh/SK_Mannequin
+[2022.07.12-08.08.34:754][817]LogSavePackage: Moving '../../../../../OneDrive/03. FERNANDO/video game creation/learn_005/Saved/SK_Mannequin69939D474A7BEFBA0C9303A36305F13A.tmp' to '../../../../../OneDrive/03. FERNANDO/video game creation/learn_005/Content/ODSMannequin/Mannequin/Character/Mesh/SK_Mannequin.uasset'
+[2022.07.12-08.08.34:755][817]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Mesh/SK_Mannequin" FILE="../../../../../OneDrive/03. FERNANDO/video game creation/learn_005/Content/Character/Mesh/SK_Mannequin.uasset" SILENT=true
+[2022.07.12-08.08.34:994][817]LogSavePackage: Moving output files for package: /Game/Character/Mesh/SK_Mannequin
+[2022.07.12-08.08.34:994][817]LogSavePackage: Moving '../../../../../OneDrive/03. FERNANDO/video game creation/learn_005/Saved/SK_Mannequin22A2D64B4E1A43C8485EC69F93BCC025.tmp' to '../../../../../OneDrive/03. FERNANDO/video game creation/learn_005/Content/Character/Mesh/SK_Mannequin.uasset'
+[2022.07.12-08.08.35:009][817]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.07.12-08.08.35:015][817]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2022.07.12-08.08.35:021][817]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2022.07.12-08.08.35:031][817]AssetCheck: New page: Asset Save: multiple assets
+[2022.07.12-08.08.35:031][817]LogContentValidation: Display: Validating SkeletalMesh /Game/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2022.07.12-08.08.35:031][817]LogContentValidation: Display: Validating ObjectRedirector /Game/ODSMannequin/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2022.07.12-08.08.38:474][166]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.07.12-08.08.39:613][166]LogSlate: Took 0.000095 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.07.12-08.08.42:935][166]LogSlate: Window 'Delete Assets' being destroyed
+[2022.07.12-08.08.46:579][477]LogContentBrowser: Attempting asset rename: SK_Mannequin -> mil
+[2022.07.12-08.08.46:594][477]LogMetaData: Removing '/Game/Character/Mesh/mil.mil' ref from Metadata '/Game/Character/Mesh/SK_Mannequin.PackageMetaData'
+[2022.07.12-08.08.46:653][477]LogSavePackage: Moving output files for package: /Game/ODSMannequin/Mannequin/Character/Mesh/SK_Mannequin
+[2022.07.12-08.08.46:654][477]LogSavePackage: Moving '../../../../../OneDrive/03. FERNANDO/video game creation/learn_005/Saved/SK_Mannequin485E28564159538E1D65819A25F0AD73.tmp' to '../../../../../OneDrive/03. FERNANDO/video game creation/learn_005/Content/ODSMannequin/Mannequin/Character/Mesh/SK_Mannequin.uasset'
+[2022.07.12-08.08.46:654][477]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Mesh/mil" FILE="../../../../../OneDrive/03. FERNANDO/video game creation/learn_005/Content/Character/Mesh/mil.uasset" SILENT=true
+[2022.07.12-08.08.46:893][477]LogSavePackage: Moving output files for package: /Game/Character/Mesh/mil
+[2022.07.12-08.08.46:893][477]LogSavePackage: Moving '../../../../../OneDrive/03. FERNANDO/video game creation/learn_005/Saved/milEF79400B4E26557728F734A23DDAB048.tmp' to '../../../../../OneDrive/03. FERNANDO/video game creation/learn_005/Content/Character/Mesh/mil.uasset'
+[2022.07.12-08.08.46:907][477]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2022.07.12-08.08.46:914][477]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.07.12-08.08.46:920][477]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.07.12-08.08.46:923][477]AssetCheck: New page: Asset Save: multiple assets
+[2022.07.12-08.08.46:923][477]LogContentValidation: Display: Validating SkeletalMesh /Game/Character/Mesh/mil.mil
+[2022.07.12-08.08.46:923][477]LogContentValidation: Display: Validating ObjectRedirector /Game/ODSMannequin/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2022.07.12-08.08.48:778][633]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2022.07.12-08.08.53:667][633]LogSlate: Window 'Replace References?' being destroyed
+[2022.07.12-08.08.53:669][633]Message dialog closed, result: Ok, title: Replace References?, text: This will replace any reference to the pending deleted assets with mil; and then delete them.
+
+Are you sure?
+[2022.07.12-08.08.53:669][633]LogSlate: Window 'Delete Assets' being destroyed
+[2022.07.12-08.08.53:794][633]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.07.12-08.08.57:013][633]LogSlate: Window 'Save Content' being destroyed
+[2022.07.12-08.08.57:053][633]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Mesh/Samurai" FILE="../../../../../OneDrive/03. FERNANDO/video game creation/learn_005/Content/Character/Mesh/Samurai.uasset" SILENT=true
+[2022.07.12-08.08.57:053][633]LogSavePackage: Moving output files for package: /Game/Character/Mesh/Samurai
+[2022.07.12-08.08.57:054][633]LogSavePackage: Moving '../../../../../OneDrive/03. FERNANDO/video game creation/learn_005/Saved/Samurai291A06DC46959C9B9E5732B9EFF7A7D8.tmp' to '../../../../../OneDrive/03. FERNANDO/video game creation/learn_005/Content/Character/Mesh/Samurai.uasset'
+[2022.07.12-08.08.57:061][633]AssetCheck: New page: Asset Save: Samurai
+[2022.07.12-08.08.57:061][633]LogContentValidation: Display: Validating ObjectRedirector /Game/Character/Mesh/Samurai.Samurai
+[2022.07.12-08.09.05:101][407]LogContentBrowser: Attempting asset rename: mil -> Samurai_
+[2022.07.12-08.09.05:116][407]LogMetaData: Removing '/Game/Character/Mesh/Samurai_.Samurai_' ref from Metadata '/Game/Character/Mesh/mil.PackageMetaData'
+[2022.07.12-08.09.05:169][407]LogSavePackage: Moving output files for package: /Game/ODSMannequin/Mannequin/Character/Mesh/SK_Mannequin
+[2022.07.12-08.09.05:170][407]LogSavePackage: Moving '../../../../../OneDrive/03. FERNANDO/video game creation/learn_005/Saved/SK_MannequinAB207C064632A81DFD80D4934757CF25.tmp' to '../../../../../OneDrive/03. FERNANDO/video game creation/learn_005/Content/ODSMannequin/Mannequin/Character/Mesh/SK_Mannequin.uasset'
+[2022.07.12-08.09.05:170][407]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Mesh/Samurai" FILE="../../../../../OneDrive/03. FERNANDO/video game creation/learn_005/Content/Character/Mesh/Samurai.uasset" SILENT=true
+[2022.07.12-08.09.05:171][407]LogSavePackage: Moving output files for package: /Game/Character/Mesh/Samurai
+[2022.07.12-08.09.05:171][407]LogSavePackage: Moving '../../../../../OneDrive/03. FERNANDO/video game creation/learn_005/Saved/Samurai7463C7B44532084366BC58B450C97B69.tmp' to '../../../../../OneDrive/03. FERNANDO/video game creation/learn_005/Content/Character/Mesh/Samurai.uasset'
+[2022.07.12-08.09.05:172][407]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Mesh/Samurai_" FILE="../../../../../OneDrive/03. FERNANDO/video game creation/learn_005/Content/Character/Mesh/Samurai_.uasset" SILENT=true
+[2022.07.12-08.09.05:430][407]LogSavePackage: Moving output files for package: /Game/Character/Mesh/Samurai_
+[2022.07.12-08.09.05:430][407]LogSavePackage: Moving '../../../../../OneDrive/03. FERNANDO/video game creation/learn_005/Saved/Samurai_135378A042096EB070E22B836605AF2D.tmp' to '../../../../../OneDrive/03. FERNANDO/video game creation/learn_005/Content/Character/Mesh/Samurai_.uasset'
+[2022.07.12-08.09.05:444][407]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2022.07.12-08.09.05:450][407]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.07.12-08.09.05:457][407]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2022.07.12-08.09.05:460][407]AssetCheck: New page: Asset Save: multiple assets
+[2022.07.12-08.09.05:460][407]LogContentValidation: Display: Validating SkeletalMesh /Game/Character/Mesh/Samurai_.Samurai_
+[2022.07.12-08.09.05:460][407]LogContentValidation: Display: Validating ObjectRedirector /Game/ODSMannequin/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2022.07.12-08.09.05:460][407]LogContentValidation: Display: Validating ObjectRedirector /Game/Character/Mesh/Samurai.Samurai
+[2022.07.12-08.09.08:639][735]LogUObjectHash: Compacting FUObjectHashTables data took   0.15ms
+[2022.07.12-08.09.09:666][735]LogSlate: Window 'Save Content' being destroyed
+[2022.07.12-08.09.09:745][735]LogSavePackage: Moving output files for package: /Game/ODSMannequin/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset
+[2022.07.12-08.09.09:746][735]LogSavePackage: Moving '../../../../../OneDrive/03. FERNANDO/video game creation/learn_005/Saved/SK_Mannequin_PhysicsAsset16D00A1A4140362DA8B6B18FD2487E2B.tmp' to '../../../../../OneDrive/03. FERNANDO/video game creation/learn_005/Content/ODSMannequin/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.uasset'
+[2022.07.12-08.09.09:756][735]LogSavePackage: Moving output files for package: /Game/ODSMannequin/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton
+[2022.07.12-08.09.09:756][735]LogSavePackage: Moving '../../../../../OneDrive/03. FERNANDO/video game creation/learn_005/Saved/UE4_Mannequin_Skeleton61C471E54C311F83DA2D87AF196AB667.tmp' to '../../../../../OneDrive/03. FERNANDO/video game creation/learn_005/Content/ODSMannequin/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset'
+[2022.07.12-08.09.09:764][735]AssetCheck: New page: Asset Save: multiple assets
+[2022.07.12-08.09.09:764][735]LogContentValidation: Display: Validating PhysicsAsset /Game/ODSMannequin/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.SK_Mannequin_PhysicsAsset
+[2022.07.12-08.09.09:764][735]LogContentValidation: Display: Validating Skeleton /Game/ODSMannequin/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.UE4_Mannequin_Skeleton
+[2022.07.12-08.09.15:461][314]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/Character/Mesh/Samurai_Skeleton.Samurai_Skeleton
+[2022.07.12-08.09.15:490][314]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.12-08.09.15:521][314]LogTexture: Display: Waiting for textures to be ready 0/1 (/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1) ...
+[2022.07.12-08.09.15:798][314]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.12-08.09.15:949][314]LogSlate: Took 0.000180 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.07.12-08.09.15:953][314]LogViewport: Scene viewport resized to 1141x858, mode Windowed.
+[2022.07.12-08.09.20:895][678]LogSlate: Window 'Samurai_Skeleton' being destroyed
+[2022.07.12-08.09.20:943][678]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2022.07.12-08.09.20:943][678]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.12-08.09.20:959][678]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/Character/Mesh/Samurai_Skeleton.Samurai_Skeleton
+[2022.07.12-08.09.20:959][678]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.12-08.09.20:966][678]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.07.12-08.09.21:162][678]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.12-08.09.21:178][678]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2022.07.12-08.09.21:178][678]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.12-08.09.21:235][678]LogViewport: Scene viewport resized to 1141x858, mode Windowed.
+[2022.07.12-08.09.23:314][809]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Animation/Sword_Locomotion/ARPG_Samurai_Anim_UE_Walk_Rightward_Rootmotion.ARPG_Samurai_Anim_UE_Walk_Rightward_Rootmotion
+[2022.07.12-08.09.23:314][809]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.12-08.09.23:449][809]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.12-08.09.23:659][809]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.07.12-08.09.23:664][809]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.12-08.09.23:772][809]LogViewport: Scene viewport resized to 958x443, mode Windowed.
+[2022.07.12-08.09.23:804][809]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2022.07.12-08.09.28:544][144]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Mesh/Samurai_Skeleton" FILE="../../../../../OneDrive/03. FERNANDO/video game creation/learn_005/Content/Character/Mesh/Samurai_Skeleton.uasset" SILENT=true
+[2022.07.12-08.09.28:546][144]LogSavePackage: Moving output files for package: /Game/Character/Mesh/Samurai_Skeleton
+[2022.07.12-08.09.28:546][144]LogSavePackage: Moving '../../../../../OneDrive/03. FERNANDO/video game creation/learn_005/Saved/Samurai_Skeleton78B1B3FF44AB464A7F20C4914A8190B9.tmp' to '../../../../../OneDrive/03. FERNANDO/video game creation/learn_005/Content/Character/Mesh/Samurai_Skeleton.uasset'
+[2022.07.12-08.09.28:556][144]AssetCheck: New page: Asset Save: Samurai_Skeleton
+[2022.07.12-08.09.28:556][144]LogContentValidation: Display: Validating Skeleton /Game/Character/Mesh/Samurai_Skeleton.Samurai_Skeleton
+[2022.07.12-08.09.41:045][149]LogAssetEditorSubsystem: Opening Asset editor for PhysicsAsset /Game/ODSMannequin/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.SK_Mannequin_PhysicsAsset
+[2022.07.12-08.09.41:135][149]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.12-08.09.41:211][149]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2022.07.12-08.09.41:420][149]LogSlate: Took 0.016368 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.07.12-08.09.41:428][149]LogViewport: Scene viewport resized to 1141x858, mode Windowed.
+[2022.07.12-08.09.43:595][271]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/ODSMannequin/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP
+[2022.07.12-08.09.43:595][271]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.12-08.09.43:600][271]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.12-08.09.43:608][271]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.07.12-08.09.44:842][271]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.12-08.09.44:943][271]LogViewport: Scene viewport resized to 476x409, mode Windowed.
+[2022.07.12-08.09.45:025][271]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'Graph.Node.Comment.TextColor'.'
+[2022.07.12-08.09.45:030][271]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2022.07.12-08.09.47:710][472]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace1D /Game/ODSMannequin/Mannequin/Animations/ThirdPerson_IdleRun_2D.ThirdPerson_IdleRun_2D
+[2022.07.12-08.09.47:710][472]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.12-08.09.47:717][472]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.07.12-08.09.47:845][472]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.12-08.09.47:933][472]LogViewport: Scene viewport resized to 958x443, mode Windowed.
+[2022.07.12-08.09.47:955][472]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2022.07.12-08.09.50:072][628]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Character/Mesh/Samurai_.Samurai_
+[2022.07.12-08.09.50:072][628]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.12-08.09.50:079][628]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.07.12-08.09.50:372][628]LogViewport: Scene viewport resized to 1141x858, mode Windowed.
+[2022.07.12-08.09.51:750][727]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/ODSMannequin/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.UE4_Mannequin_Skeleton
+[2022.07.12-08.09.51:750][727]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.12-08.09.51:759][727]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_24:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.07.12-08.09.51:891][727]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.12-08.09.51:979][727]LogViewport: Scene viewport resized to 1141x858, mode Windowed.
+[2022.07.12-08.09.54:509][899]LogSlate: Window 'UE4_Mannequin_Skeleton' being destroyed
+[2022.07.12-08.09.54:513][899]LogSlate: Window 'UE4_Mannequin_Skeleton' being destroyed
+[2022.07.12-08.09.54:515][899]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2022.07.12-08.09.54:515][899]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.12-08.09.54:553][899]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2022.07.12-08.09.54:554][899]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.12-08.09.54:568][899]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2022.07.12-08.09.54:568][899]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.12-08.09.54:614][899]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2022.07.12-08.09.54:614][899]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.12-08.09.54:683][899]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2022.07.12-08.09.54:684][899]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.12-08.09.54:706][899]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2022.07.12-08.09.54:707][899]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.12-08.09.54:762][899]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2022.07.12-08.09.54:762][899]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.12-08.09.54:768][899]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2022.07.12-08.09.54:768][899]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.12-08.09.54:821][899]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2022.07.12-08.09.54:821][899]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.12-08.09.54:832][899]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2022.07.12-08.09.54:832][899]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.12-08.09.54:872][899]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2022.07.12-08.09.54:872][899]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.12-08.09.54:889][899]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2022.07.12-08.09.54:889][899]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.12-08.09.54:933][899]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2022.07.12-08.09.54:934][899]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.12-08.09.54:965][899]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2022.07.12-08.09.54:965][899]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.12-08.10.01:224][557]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.07.12-08.10.01:381][557]LogBlueprint: Warning: [AssetLog] H:\OneDrive\03. FERNANDO\video game creation\learn_005\Content\ODSMannequin\ThirdPersonBP\Blueprints\ThirdPersonCharacter_Female.uasset: [Compiler] InputAction Event references unknown Action 'ResetVR' for  InputAction ResetVR
+[2022.07.12-08.10.01:381][557]LogBlueprint: Warning: [AssetLog] H:\OneDrive\03. FERNANDO\video game creation\learn_005\Content\ODSMannequin\ThirdPersonBP\Blueprints\ThirdPersonCharacter_Female.uasset: [Compiler] Input Axis Event references unknown Axis 'LookUpRate' for  InputAxis LookUpRate
+[2022.07.12-08.10.01:381][557]LogBlueprint: Warning: [AssetLog] H:\OneDrive\03. FERNANDO\video game creation\learn_005\Content\ODSMannequin\ThirdPersonBP\Blueprints\ThirdPersonCharacter_Female.uasset: [Compiler] Input Axis Event references unknown Axis 'TurnRate' for  InputAxis TurnRate
+[2022.07.12-08.10.01:381][557]LogBlueprint: Warning: [AssetLog] H:\OneDrive\03. FERNANDO\video game creation\learn_005\Content\ODSMannequin\ThirdPersonBP\Blueprints\ThirdPersonCharacter_Female.uasset: [Compiler] Input Axis Event references unknown Axis 'LookUp' for  InputAxis LookUp
+[2022.07.12-08.10.01:382][557]LogBlueprint: Warning: [AssetLog] H:\OneDrive\03. FERNANDO\video game creation\learn_005\Content\ODSMannequin\ThirdPersonBP\Blueprints\ThirdPersonCharacter_Female.uasset: [Compiler] Input Axis Event references unknown Axis 'Turn' for  InputAxis Turn
+[2022.07.12-08.10.01:382][557]LogBlueprint: Warning: [AssetLog] H:\OneDrive\03. FERNANDO\video game creation\learn_005\Content\ODSMannequin\ThirdPersonBP\Blueprints\ThirdPersonCharacter_Female.uasset: [Compiler] Input Axis Event references unknown Axis 'MoveRight' for  InputAxis MoveRight
+[2022.07.12-08.10.01:382][557]LogBlueprint: Warning: [AssetLog] H:\OneDrive\03. FERNANDO\video game creation\learn_005\Content\ODSMannequin\ThirdPersonBP\Blueprints\ThirdPersonCharacter_Female.uasset: [Compiler] Input Axis Event references unknown Axis 'MoveForward' for  InputAxis MoveForward
+[2022.07.12-08.10.01:396][557]LogBlueprint: Warning: [AssetLog] H:\OneDrive\03. FERNANDO\video game creation\learn_005\Content\ODSMannequin\ThirdPersonBP\Blueprints\ThirdPersonCharacter.uasset: [Compiler] InputAction Event references unknown Action 'ResetVR' for  InputAction ResetVR
+[2022.07.12-08.10.01:396][557]LogBlueprint: Warning: [AssetLog] H:\OneDrive\03. FERNANDO\video game creation\learn_005\Content\ODSMannequin\ThirdPersonBP\Blueprints\ThirdPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'LookUpRate' for  InputAxis LookUpRate
+[2022.07.12-08.10.01:396][557]LogBlueprint: Warning: [AssetLog] H:\OneDrive\03. FERNANDO\video game creation\learn_005\Content\ODSMannequin\ThirdPersonBP\Blueprints\ThirdPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'TurnRate' for  InputAxis TurnRate
+[2022.07.12-08.10.01:397][557]LogBlueprint: Warning: [AssetLog] H:\OneDrive\03. FERNANDO\video game creation\learn_005\Content\ODSMannequin\ThirdPersonBP\Blueprints\ThirdPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'LookUp' for  InputAxis LookUp
+[2022.07.12-08.10.01:397][557]LogBlueprint: Warning: [AssetLog] H:\OneDrive\03. FERNANDO\video game creation\learn_005\Content\ODSMannequin\ThirdPersonBP\Blueprints\ThirdPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'Turn' for  InputAxis Turn
+[2022.07.12-08.10.01:398][557]LogBlueprint: Warning: [AssetLog] H:\OneDrive\03. FERNANDO\video game creation\learn_005\Content\ODSMannequin\ThirdPersonBP\Blueprints\ThirdPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'MoveRight' for  InputAxis MoveRight
+[2022.07.12-08.10.01:398][557]LogBlueprint: Warning: [AssetLog] H:\OneDrive\03. FERNANDO\video game creation\learn_005\Content\ODSMannequin\ThirdPersonBP\Blueprints\ThirdPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'MoveForward' for  InputAxis MoveForward
+[2022.07.12-08.10.01:479][557]LogObjectTools: Deleting 1 worlds: /Game/ODSMannequin/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2022.07.12-08.10.01:479][557]LogObjectTools: Currently 11 active worlds: /Temp/Untitled_1.Untitled_1, /Engine/Transient.World_0, /Engine/Transient.World_1, /Engine/Transient.World_2, /Engine/Transient.World_3, /Engine/Transient.World_4, /Engine/Transient.World_5, /Engine/Transient.World_6, /Engine/Transient.World_7, /Engine/Transient.World_8, /Engine/Transient.World_23
+[2022.07.12-08.10.01:519][557]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2022.07.12-08.10.12:028][557]LogSlate: Window 'Delete Assets' being destroyed
+[2022.07.12-08.10.12:093][557]LogUObjectGlobals: Force Deleting 73 Package(s):
+	Asset Name: /Game/ODSMannequin/FemaleMannequin/Character/Materials/Textures/T_decals.T_decals
+	Asset Type: Texture2D
+	Asset Name: /Game/ODSMannequin/FemaleMannequin/Character/Materials/M_Mannequin_Decals.M_Mannequin_Decals
+	Asset Type: Material
+	Asset Name: /Game/ODSMannequin/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.T_ML_Rubber_Blue_01_D
+	Asset Type: Texture2D
+	Asset Name: /Game/ODSMannequin/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.T_ML_Rubber_Blue_01_N
+	Asset Type: Texture2D
+	Asset Name: /Game/ODSMannequin/FemaleMannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.ML_GlossyBlack_Latex_UE4
+	Asset Type: MaterialFunction
+	Asset Name: /Game/ODSMannequin/FemaleMannequin/Character/Materials/Textures/Camos/T_MARPAT_Desert.T_MARPAT_Desert
+	Asset Type: Texture2D
+	Asset Name: /Game/ODSMannequin/FemaleMannequin/Character/Materials/Textures/T_MilitaryPaint_a.T_MilitaryPaint_a
+	Asset Type: Texture2D
+	Asset Name: /Game/ODSMannequin/FemaleMannequin/Character/Materials/Textures/T_MilitaryPaint_n.T_MilitaryPaint_n
+	Asset Type: Texture2D
+	Asset Name: /Game/ODSMannequin/FemaleMannequin/Character/Materials/Textures/T_MilitaryPaint_orm.T_MilitaryPaint_orm
+	Asset Type: Texture2D
+	Asset Name: /Game/ODSMannequin/FemaleMannequin/Character/Materials/MaterialLayers/ML_Military_Paint.ML_Military_Paint
+	Asset Type: MaterialFunction
+[2022.07.12-08.10.12:433][557]LogMaterial: Display: Missing cached shadermap for M_Mannequin_Decals in PCD3D_SM5, Default, SM5 (DDC key hash: E9759198871546996B125D8CF5D1BF12BC3223D5), compiling. 
+[2022.07.12-08.10.12:433][557]LogMaterial: Warning: [AssetLog] H:\OneDrive\03. FERNANDO\video game creation\learn_005\Content\ODSMannequin\FemaleMannequin\Character\Materials\M_Mannequin_Decals.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.07.12-08.10.12:505][557]LogMaterial: Display: Missing cached shadermap for M_UE4Man_Body_Military in PCD3D_SM5, Default, SM5 (DDC key hash: 12F7731857666B218F697C11F20FBFBA789FBCE9), compiling. 
+[2022.07.12-08.10.12:506][557]LogMaterial: Warning: [AssetLog] H:\OneDrive\03. FERNANDO\video game creation\learn_005\Content\ODSMannequin\Mannequin\Character\Materials\M_UE4Man_Body_Military.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	Missing Material Function
+	(Node TextureSample) Texture Sample> Missing input texture
+	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+	Function MatLayerBlend_AO: (Node MakeMaterialAttributes) Error on property BaseColor
+	Function MatLayerBlend_AO: (Node MakeMaterialAttributes) Error on property Specular
+	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+
+[2022.07.12-08.10.12:511][557]LogMaterial: Display: Missing cached shadermap for M_UE4Man_Body_Military in PCD3D_SM5, Default, SM5 (DDC key hash: 12F7731857666B218F697C11F20FBFBA789FBCE9), compiling. 
+[2022.07.12-08.10.12:512][557]LogMaterial: Warning: [AssetLog] H:\OneDrive\03. FERNANDO\video game creation\learn_005\Content\ODSMannequin\Mannequin\Character\Materials\M_UE4Man_Body_Military.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	Missing Material Function
+	(Node TextureSample) Texture Sample> Missing input texture
+	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+	Function MatLayerBlend_AO: (Node MakeMaterialAttributes) Error on property BaseColor
+	Function MatLayerBlend_AO: (Node MakeMaterialAttributes) Error on property Specular
+	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+
+[2022.07.12-08.10.12:516][557]LogMaterial: Display: Missing cached shadermap for M_UE4Man_Body_Military in PCD3D_SM5, Default, SM5 (DDC key hash: 12F7731857666B218F697C11F20FBFBA789FBCE9), compiling. 
+[2022.07.12-08.10.12:518][557]LogMaterial: Warning: [AssetLog] H:\OneDrive\03. FERNANDO\video game creation\learn_005\Content\ODSMannequin\Mannequin\Character\Materials\M_UE4Man_Body_Military.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	Missing Material Function
+	(Node TextureSample) Texture Sample> Missing input texture
+	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+	Function MatLayerBlend_AO: (Node MakeMaterialAttributes) Error on property BaseColor
+	Function MatLayerBlend_AO: (Node MakeMaterialAttributes) Error on property Specular
+	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+
+[2022.07.12-08.10.12:522][557]LogMaterial: Display: Missing cached shadermap for M_UE4Man_Body_Military in PCD3D_SM5, Default, SM5 (DDC key hash: 12F7731857666B218F697C11F20FBFBA789FBCE9), compiling. 
+[2022.07.12-08.10.12:523][557]LogMaterial: Warning: [AssetLog] H:\OneDrive\03. FERNANDO\video game creation\learn_005\Content\ODSMannequin\Mannequin\Character\Materials\M_UE4Man_Body_Military.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	Missing Material Function
+	(Node TextureSample) Texture Sample> Missing input texture
+	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+	Function MatLayerBlend_AO: (Node MakeMaterialAttributes) Error on property BaseColor
+	Function MatLayerBlend_AO: (Node MakeMaterialAttributes) Error on property Specular
+	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+
+[2022.07.12-08.10.12:527][557]LogMaterial: Display: Missing cached shadermap for M_UE4Man_Body_Military in PCD3D_SM5, Default, SM5 (DDC key hash: 12F7731857666B218F697C11F20FBFBA789FBCE9), compiling. 
+[2022.07.12-08.10.12:528][557]LogMaterial: Warning: [AssetLog] H:\OneDrive\03. FERNANDO\video game creation\learn_005\Content\ODSMannequin\Mannequin\Character\Materials\M_UE4Man_Body_Military.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	Missing Material Function
+	(Node TextureSample) Texture Sample> Missing input texture
+	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+	Function MatLayerBlend_AO: (Node MakeMaterialAttributes) Error on property BaseColor
+	Function MatLayerBlend_AO: (Node MakeMaterialAttributes) Error on property Specular
+	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+
+[2022.07.12-08.10.12:533][557]LogMaterial: Display: Missing cached shadermap for M_UE4Man_Body_Military in PCD3D_SM5, Default, SM5 (DDC key hash: 12F7731857666B218F697C11F20FBFBA789FBCE9), compiling. 
+[2022.07.12-08.10.12:534][557]LogMaterial: Warning: [AssetLog] H:\OneDrive\03. FERNANDO\video game creation\learn_005\Content\ODSMannequin\Mannequin\Character\Materials\M_UE4Man_Body_Military.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	Missing Material Function
+	(Node TextureSample) Texture Sample> Missing input texture
+	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+	Function MatLayerBlend_AO: (Node MakeMaterialAttributes) Error on property BaseColor
+	Function MatLayerBlend_AO: (Node MakeMaterialAttributes) Error on property Specular
+	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+
+[2022.07.12-08.10.12:539][557]LogMaterial: Display: Missing cached shadermap for M_UE4Man_Body_Military in PCD3D_SM5, Default, SM5 (DDC key hash: 12F7731857666B218F697C11F20FBFBA789FBCE9), compiling. 
+[2022.07.12-08.10.12:540][557]LogMaterial: Warning: [AssetLog] H:\OneDrive\03. FERNANDO\video game creation\learn_005\Content\ODSMannequin\Mannequin\Character\Materials\M_UE4Man_Body_Military.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	Missing Material Function
+	(Node TextureSample) Texture Sample> Missing input texture
+	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+	Function MatLayerBlend_AO: (Node MakeMaterialAttributes) Error on property BaseColor
+	Function MatLayerBlend_AO: (Node MakeMaterialAttributes) Error on property Specular
+	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+
+[2022.07.12-08.10.12:545][557]LogMaterial: Display: Missing cached shadermap for M_UE4Man_Body_Military in PCD3D_SM5, Default, SM5 (DDC key hash: 12F7731857666B218F697C11F20FBFBA789FBCE9), compiling. 
+[2022.07.12-08.10.12:546][557]LogMaterial: Warning: [AssetLog] H:\OneDrive\03. FERNANDO\video game creation\learn_005\Content\ODSMannequin\Mannequin\Character\Materials\M_UE4Man_Body_Military.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	Missing Material Function
+	(Node TextureSample) Texture Sample> Missing input texture
+	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+	Function MatLayerBlend_AO: (Node MakeMaterialAttributes) Error on property BaseColor
+	Function MatLayerBlend_AO: (Node MakeMaterialAttributes) Error on property Specular
+	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+
+[2022.07.12-08.10.12:550][557]LogMaterial: Display: Missing cached shadermap for M_UE4Man_Body_Military in PCD3D_SM5, Default, SM5 (DDC key hash: 12F7731857666B218F697C11F20FBFBA789FBCE9), compiling. 
+[2022.07.12-08.10.12:551][557]LogMaterial: Warning: [AssetLog] H:\OneDrive\03. FERNANDO\video game creation\learn_005\Content\ODSMannequin\Mannequin\Character\Materials\M_UE4Man_Body_Military.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	Missing Material Function
+	(Node TextureSample) Texture Sample> Missing input texture
+	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+	Function MatLayerBlend_AO: (Node MakeMaterialAttributes) Error on property BaseColor
+	Function MatLayerBlend_AO: (Node MakeMaterialAttributes) Error on property Specular
+	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+
+[2022.07.12-08.10.12:556][557]LogMaterial: Display: Missing cached shadermap for M_UE4Man_Body_Military in PCD3D_SM5, Default, SM5 (DDC key hash: 12F7731857666B218F697C11F20FBFBA789FBCE9), compiling. 
+[2022.07.12-08.10.12:557][557]LogMaterial: Warning: [AssetLog] H:\OneDrive\03. FERNANDO\video game creation\learn_005\Content\ODSMannequin\Mannequin\Character\Materials\M_UE4Man_Body_Military.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	Missing Material Function
+	(Node TextureSample) Texture Sample> Missing input texture
+	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+	Function MatLayerBlend_AO: (Node MakeMaterialAttributes) Error on property BaseColor
+	Function MatLayerBlend_AO: (Node MakeMaterialAttributes) Error on property Specular
+	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+
+[2022.07.12-08.10.12:562][557]LogMaterial: Display: Missing cached shadermap for M_UE4Man_Body_Military in PCD3D_SM5, Default, SM5 (DDC key hash: 12F7731857666B218F697C11F20FBFBA789FBCE9), compiling. 
+[2022.07.12-08.10.12:563][557]LogMaterial: Warning: [AssetLog] H:\OneDrive\03. FERNANDO\video game creation\learn_005\Content\ODSMannequin\Mannequin\Character\Materials\M_UE4Man_Body_Military.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	Missing Material Function
+	(Node TextureSample) Texture Sample> Missing input texture
+	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+	Function MatLayerBlend_AO: (Node MakeMaterialAttributes) Error on property BaseColor
+	Function MatLayerBlend_AO: (Node MakeMaterialAttributes) Error on property Specular
+	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+
+[2022.07.12-08.10.12:567][557]LogMaterial: Display: Missing cached shadermap for M_UE4Man_Body_Military in PCD3D_SM5, Default, SM5 (DDC key hash: 12F7731857666B218F697C11F20FBFBA789FBCE9), compiling. 
+[2022.07.12-08.10.12:569][557]LogMaterial: Warning: [AssetLog] H:\OneDrive\03. FERNANDO\video game creation\learn_005\Content\ODSMannequin\Mannequin\Character\Materials\M_UE4Man_Body_Military.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	Missing Material Function
+	(Node TextureSample) Texture Sample> Missing input texture
+	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+	Function MatLayerBlend_AO: (Node MakeMaterialAttributes) Error on property BaseColor
+	Function MatLayerBlend_AO: (Node MakeMaterialAttributes) Error on property Specular
+	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+
+[2022.07.12-08.10.12:573][557]LogMaterial: Display: Missing cached shadermap for M_UE4Man_Body_Military in PCD3D_SM5, Default, SM5 (DDC key hash: 12F7731857666B218F697C11F20FBFBA789FBCE9), compiling. 
+[2022.07.12-08.10.12:574][557]LogMaterial: Warning: [AssetLog] H:\OneDrive\03. FERNANDO\video game creation\learn_005\Content\ODSMannequin\Mannequin\Character\Materials\M_UE4Man_Body_Military.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	Missing Material Function
+	(Node TextureSample) Texture Sample> Missing input texture
+	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+	Function MatLayerBlend_AO: (Node MakeMaterialAttributes) Error on property BaseColor
+	Function MatLayerBlend_AO: (Node MakeMaterialAttributes) Error on property Specular
+	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+
+[2022.07.12-08.10.12:579][557]LogMaterial: Display: Missing cached shadermap for M_UE4Man_Body_Military in PCD3D_SM5, Default, SM5 (DDC key hash: 12F7731857666B218F697C11F20FBFBA789FBCE9), compiling. 
+[2022.07.12-08.10.12:580][557]LogMaterial: Warning: [AssetLog] H:\OneDrive\03. FERNANDO\video game creation\learn_005\Content\ODSMannequin\Mannequin\Character\Materials\M_UE4Man_Body_Military.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	Missing Material Function
+	(Node TextureSample) Texture Sample> Missing input texture
+	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+	Function MatLayerBlend_AO: (Node MakeMaterialAttributes) Error on property BaseColor
+	Function MatLayerBlend_AO: (Node MakeMaterialAttributes) Error on property Specular
+	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+
+[2022.07.12-08.10.12:585][557]LogMaterial: Display: Missing cached shadermap for M_UE4Man_Body_Military in PCD3D_SM5, Default, SM5 (DDC key hash: 12F7731857666B218F697C11F20FBFBA789FBCE9), compiling. 
+[2022.07.12-08.10.12:586][557]LogMaterial: Warning: [AssetLog] H:\OneDrive\03. FERNANDO\video game creation\learn_005\Content\ODSMannequin\Mannequin\Character\Materials\M_UE4Man_Body_Military.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	Missing Material Function
+	(Node TextureSample) Texture Sample> Missing input texture
+	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+	Function MatLayerBlend_AO: (Node MakeMaterialAttributes) Error on property BaseColor
+	Function MatLayerBlend_AO: (Node MakeMaterialAttributes) Error on property Specular
+	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+
+[2022.07.12-08.10.12:604][557]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (Samurai_) ...
+[2022.07.12-08.10.12:631][557]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2022.07.12-08.10.12:640][557]LogWindows: Windows GetLastError: The operation completed successfully. (0)
